@@ -46,7 +46,7 @@ npm start
 	    entry: './main.js',
 	    output: {
 	        path: './',
-	        filename: 'index.js'
+	        filename: 'bundle.js'
 	    },
 	    devServer: {
 	      inline: true,
